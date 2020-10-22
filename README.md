@@ -9,12 +9,8 @@
 6) Alterar "target" para "es2017".
 7) Terminal "yarn add ts-node-dev -D"
 8) Terminal "yarn add typeorm sqlite3"
-9) Terminal ""
-10) Terminal ""
-11) Terminal ""
 
 ## Parâmetros da aplicação
 - Query: http://localhost:3333/users?search=felipe
 - Route Params: http://localhost:3333/users/1
 - Body: { message: "Hello World" }
-

@@ -1,6 +1,7 @@
 # **API-NLW** | Notas de desenvolvimento
 
 ## Iniciando o projeto
+Obs.: Instalar versão LTS do NodeJs
 1) Terminal "yarn init -y"
 2) Terminal "yarn add express"
 3) Terminal "yarn add @types/express -D"
